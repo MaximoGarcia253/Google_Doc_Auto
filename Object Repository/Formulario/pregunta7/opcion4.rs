@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>opcion4</name>
+   <tag></tag>
+   <elementGuidId>faaa453b-3323-4ffa-aa1d-00f6d4a9ac2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#i99 > div.uHMk6b.fsHoPb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='i99']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8467484-c366-4edc-b0f1-49c0d734ca5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uHMk6b fsHoPb</value>
+      <webElementGuid>3a4f8aa1-702d-4437-9957-2ea45d9038ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i99&quot;)/div[@class=&quot;uHMk6b fsHoPb&quot;]</value>
+      <webElementGuid>10bfd320-c5cb-4bda-849d-2f200132a6c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='i99']/div[2]</value>
+      <webElementGuid>92563bfe-9e7b-4e38-aa34-382547ecfad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/label/div/div/div[2]</value>
+      <webElementGuid>d6f801ec-22e5-4f48-8586-6d19ade9eb8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

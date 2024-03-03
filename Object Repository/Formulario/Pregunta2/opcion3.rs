@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>opcion3</name>
+   <tag></tag>
+   <elementGuidId>57f6f038-c5d5-48e3-8856-a01a5930fbf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#i36 > div.vd3tt > div.AB7Lab.Id5V1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='i36']/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dbf88911-a197-4c0c-92e8-f6203a5ef4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AB7Lab Id5V1</value>
+      <webElementGuid>1a9cde57-d313-4d2d-a8f8-ba6dad6964e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i36&quot;)/div[@class=&quot;vd3tt&quot;]/div[@class=&quot;AB7Lab Id5V1&quot;]</value>
+      <webElementGuid>085cddea-e052-418c-84a9-f007d2638f72</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='i36']/div[3]/div</value>
+      <webElementGuid>d32f576c-7e95-40ee-9f63-8d955c272757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[8]</value>
+      <webElementGuid>aa5ceb60-c134-4391-b134-fc3ef765bfbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Si'])[1]/following::div[19]</value>
+      <webElementGuid>d539e7b8-5ac7-478f-b572-bf0fb5d9d964</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se'])[1]/preceding::div[2]</value>
+      <webElementGuid>b60ab984-4939-4cae-93c4-dcdfa871e566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::div[23]</value>
+      <webElementGuid>0cfd396a-a4db-4cab-8498-6f71e0464c54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/span/div/div[3]/label/div/div/div/div[3]/div</value>
+      <webElementGuid>bd3c3c50-6f3d-4336-8e9f-21d941f015d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

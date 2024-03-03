@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>opcion2</name>
+   <tag></tag>
+   <elementGuidId>ca9f609f-a7cc-455c-a21e-f23fbc0b74d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#i129 > div.uHMk6b.fsHoPb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='i129']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>da5be15c-ecbc-4319-abc8-f1d27b2180f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uHMk6b fsHoPb</value>
+      <webElementGuid>4aaedafe-e0f4-4c26-8ec9-2195b10f53bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;i129&quot;)/div[@class=&quot;uHMk6b fsHoPb&quot;]</value>
+      <webElementGuid>7f6d1885-9de2-4db6-9b8f-24e5e0c62ff3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='i129']/div[2]</value>
+      <webElementGuid>84abd3f7-6d08-429b-ba32-bcde201bb520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/div/div[2]/label/div/div/div[2]</value>
+      <webElementGuid>cc3964d5-7715-499e-a823-1256500eb653</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

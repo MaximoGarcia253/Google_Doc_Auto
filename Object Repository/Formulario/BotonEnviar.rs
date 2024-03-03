@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BotonEnviar</name>
+   <tag></tag>
+   <elementGuidId>5747fd81-2288-4aaa-85d7-0cc681f66961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uArJ5e.UQuaGc.Y5sE8d.VkkpIf.QvWxOd > span.l4V7wb.Fxmcue > span.NPEfkd.RveJvd.snByac</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>03e43278-c5b5-415c-af9a-85816e26b36d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>NPEfkd RveJvd snByac</value>
+      <webElementGuid>c3af4cb1-5837-4003-b226-43ab48a7041b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enviar</value>
+      <webElementGuid>e37eb4f5-78da-4715-8ac7-e9aabea6d8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;ThHDze&quot;]/div[@class=&quot;DE3NNc CekdCb&quot;]/div[@class=&quot;lRwqcd&quot;]/div[@class=&quot;uArJ5e UQuaGc Y5sE8d VkkpIf QvWxOd&quot;]/span[@class=&quot;l4V7wb Fxmcue&quot;]/span[@class=&quot;NPEfkd RveJvd snByac&quot;]</value>
+      <webElementGuid>54da74b0-12b0-48d0-8918-531625df1a35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span/span</value>
+      <webElementGuid>1d049ac5-3a2d-4720-9896-790e89b9d230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Obligatoria'])[2]/following::span[2]</value>
+      <webElementGuid>7f991d90-554b-4ae5-898f-99474474b710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Otros:'])[3]/following::span[2]</value>
+      <webElementGuid>dc2a2107-4dd5-47e0-b052-01272d92f381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Borrar formulario'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1d08faf-ba78-4a2f-a814-0be0a81b0e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nunca envíes contraseñas a través de Formularios de Google.'])[1]/preceding::span[3]</value>
+      <webElementGuid>e84f205b-47a8-4919-bcc4-b863dad8c77c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enviar']/parent::*</value>
+      <webElementGuid>02234ec9-739e-4a12-b12c-544453efdd13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span/span</value>
+      <webElementGuid>93cfb954-a768-44f8-a3de-df22a650ddcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Enviar' or . = 'Enviar')]</value>
+      <webElementGuid>80c5b1f0-a3de-4069-a02c-c97881479824</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
